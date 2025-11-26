@@ -79,11 +79,11 @@ python api.py
 
 ```json
 {
-    "nome": "Neymar Jr",
-    "idade": 31,
-    "posicao": "ATA",
-    "nacionalidade": "Brasil",
-    "time": "Al-Hilal"
+    "nome": "Jammes Maddison",
+    "idade": 29,
+    "posicao": "CAM",
+    "nacionalidade": "English",
+    "time": "Tottenham Hotspur"
 }
 ```
 
@@ -91,11 +91,11 @@ python api.py
 
 ```json
 {
-    "nome": "Neymar Jr",
-    "idade": 32,
-    "posicao": "MEI",
-    "nacionalidade": "Brasil",
-    "time": "Santos"
+    "nome": "Dominic Ayodele Solanke-Mitchell",
+    "idade": 28,
+    "posicao": "ST",
+    "nacionalidade": "English",
+    "time": "Tottenham Hotspur"
 }
 ```
 
