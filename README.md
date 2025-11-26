@@ -53,7 +53,7 @@ O projeto utiliza bibliotecas nativas do Python, com exceção do **Flask**.
 
     *(Nota: O `tkinter` e `sqlite3` geralmente já vêm instalados com o Python).*
 
-## ▶️ Como Executar
+## Como Executar
 
 ### 1\. Executando a Interface Gráfica
 
